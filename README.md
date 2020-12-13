@@ -21,10 +21,10 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=clay099&show_icons=true&locale=en" alt="clay099" /></p>
 <!--START_SECTION:waka-->
 ```text
-TypeScript   13 hrs 8 mins   ████████████▓░░░░░░░░░░░░   50.49 % 
-JavaScript   5 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.87 % 
-HTML         2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-JSX          2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-SCSS         1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+TypeScript   11 hrs 13 mins  █████████████▓░░░░░░░░░░░   54.50 % 
+JavaScript   6 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   31.37 % 
+HTML         1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+SCSS         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Text         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 ```
 <!--END_SECTION:waka-->
