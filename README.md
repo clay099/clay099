@@ -21,10 +21,9 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=clay099&show_icons=true&locale=en" alt="clay099" /></p>
 <!--START_SECTION:waka-->
 ```text
-TypeScript   21 hrs 21 mins  ███████████████████████▓░   95.21 % 
-Other        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Bash         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-GraphQL      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+TypeScript   22 hrs 45 mins  ████████████████████████░   96.18 % 
+CSS          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 <!--END_SECTION:waka-->
