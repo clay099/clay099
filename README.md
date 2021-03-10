@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **clayton.whittaker@gmail.com**
 
-- 💻 Portfolio Webpage **https://www.whoisclayton.com/**
+- 💻 Portfolio Webpage **<a href="https://www.whoisclayton.com/" target="blank"></a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
