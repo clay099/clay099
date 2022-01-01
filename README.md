@@ -24,8 +24,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 4 mins     █████████████████░░░░░░░░   68.31 % 
-TypeScript   28 mins         ███████▓░░░░░░░░░░░░░░░░░   30.51 % 
-Python       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
