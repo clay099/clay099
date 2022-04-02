@@ -25,9 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       11 hrs 41 mins  ███████████████████▒░░░░░   76.78 %
-Terraform    1 hr 53 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-Other        44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Python       13 hrs 11 mins  ████████████████████▒░░░░   81.49 %
+Terraform    1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+Other        44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
 ```
 
 <!--END_SECTION:waka-->
