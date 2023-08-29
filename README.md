@@ -25,11 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           15 hrs 7 mins   ███████████████░░░░░░░░░░   59.48 %
-Go               5 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.45 %
-TypeScript       1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-ActionScript 3   52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Objective-C      43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Python           15 hrs 7 mins   ██████████████▒░░░░░░░░░░   56.96 %
+Go               6 hrs 50 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
+TypeScript       1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+ActionScript 3   52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Objective-C      43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 ```
 
 <!--END_SECTION:waka-->
