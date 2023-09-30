@@ -25,11 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python         2 hrs 47 mins   █████████████████▓░░░░░░░   70.61 %
-ActionScript   32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
-TypeScript     25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
-Assembly       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Text           5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Python   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
