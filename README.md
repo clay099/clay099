@@ -25,7 +25,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go               48 mins         █████████████████████████   99.43 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+TSQL             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
