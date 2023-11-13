@@ -25,10 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 30 mins   ████████████████▓░░░░░░░░   66.07 %
-TypeScript   55 mins         ██████░░░░░░░░░░░░░░░░░░░   24.28 %
-Terraform    21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
