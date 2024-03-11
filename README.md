@@ -25,11 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             14 hrs 12 mins  ██████████████░░░░░░░░░░░   55.69 %
-Terraform          3 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-TypeScript         2 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Python             14 hrs 12 mins  ██████████████░░░░░░░░░░░   55.80 %
+Terraform          3 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+TypeScript         2 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
 Go                 1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-Makefile           1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Makefile           1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
 ```
 
 <!--END_SECTION:waka-->
