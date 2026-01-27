@@ -25,9 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   4 mins          ████████████████████▓░░░░   82.90 %
-Python     0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
-nvmrc      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
